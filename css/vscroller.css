@@ -1,0 +1,66 @@
+﻿#date_time{
+  position:absolute;
+    margin-top:-60px;
+    margin-left:170px;
+font-size:35px;
+}
+
+.vticker img{
+padding:30px;
+    
+}
+
+
+.vticker b{
+    margin-top: 21px;
+    margin-left:00px;
+    position:absolute;
+    font-family: helvetica;
+    font-size:100px;
+    
+}
+
+.block{
+    
+    padding:20px 20px 20px 50px;
+    font-size:60px;
+    background-color:#333;
+
+    
+}
+
+#blueblock{
+    
+        background-color:#0171bb;
+    
+}
+
+#goldblock{
+    
+        background-color:#ffb613;
+    
+}
+
+#redblock{
+    
+        background-color:#e22a32;
+    
+}
+
+#expoblock{
+    
+        background-color:#00a4e4;
+    
+}
+
+#greenblock{
+    
+        background-color:#6ebe69;
+    
+}
+
+#purpleblock{
+    
+        background-color:#a55da9;
+    
+}
